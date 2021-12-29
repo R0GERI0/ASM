@@ -1,2 +1,2 @@
 # ASM
-Armazenamento código ASM
+Armazenamento de código ASM
